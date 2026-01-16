@@ -1,0 +1,11 @@
+id;name;department;position;salary;hire_date
+1;Ivan Petrov;IT;Junior Developer;900;2023-06-15
+2;Anna Ivanova;HR;HR Manager;1100;2022-03-10
+3;Sergey Smirnov;IT;QA Engineer;950;2023-01-20
+4;Elena Kozlova;Marketing;Content Manager;1000;2021-11-05
+5;Alexey Volkov;IT;Backend Developer;1500;2020-09-01
+6;Maria Sokolova;Finance;Accountant;1050;2021-07-12
+7;Dmitry Orlov;IT;Frontend Developer;1200;2022-08-23
+8;Olga Morozova;HR;Recruiter;950;2023-02-15
+9;Nikolay Fedorov;Marketing;SEO Specialist;980;2021-12-01
+10;Tatiana Kuznetsova;Finance;Financial Analyst;1150;2020-11-10
